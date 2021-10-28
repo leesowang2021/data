@@ -1,0 +1,52 @@
+/* Override browser default margin defaults */
+* {
+	margin: 0px;
+	box-sizing: border-box;
+	font-family: "Roboto";
+}
+
+div {
+	padding: 5px;
+	font-size: 20px;
+	// border: 1px solid tomato;
+}
+
+.column {
+	float: left;
+	height: 700px;
+}
+
+.main-box {
+	margin: 15px;
+}
+
+.side {
+	width: 15%;
+}
+
+.main {
+	width: 85%;
+}
+
+.headshot {
+	margin: 5%;
+	font-size: 15px
+}
+
+img {
+	width: 5em;
+	height: 5em;
+}
+
+.abstract {
+	margin-left: 40px;
+	margin-right: 40px;
+	font-style:italic;
+}
+
+.footer {
+	font-size: 15px;
+	text-align: center;
+	clear: both;
+	bottom: 2px;
+}
