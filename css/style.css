@@ -33,9 +33,15 @@ div {
 	font-size: 15px
 }
 
-img {
+img.headshot {
 	width: 5em;
 	height: 5em;
+}
+
+img.table{
+	width: 100%;
+	height: 100%;
+
 }
 
 .abstract {
@@ -44,9 +50,9 @@ img {
 	font-style:italic;
 }
 
-.footer {
+/*.footer {
 	font-size: 15px;
 	text-align: center;
 	clear: both;
 	bottom: 2px;
-}
+}*/
